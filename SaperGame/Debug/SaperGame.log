@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\JerzyNawrocki\Projekty\C\SaperGame\Source.c(17,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\JerzyNawrocki\Projekty\C\SaperGame\Source.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  SaperGame.vcxproj -> C:\Users\JerzyNawrocki\Projekty\C\SaperGame\Debug\SaperGame.exe

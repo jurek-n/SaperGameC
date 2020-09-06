@@ -1,0 +1,2 @@
+C:\Users\JerzyNawrocki\Projekty\C\SaperGame\Debug\SaperGame.exe
+C:\Users\JerzyNawrocki\Projekty\C\SaperGame\Debug\SaperGame.pdb
